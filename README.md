@@ -31,5 +31,5 @@ It uses **computer vision and deep learning techniques** for accurate and fast d
 
 ---
 
-## 🗂️ Folder Structure
+
 
