@@ -1,0 +1,28 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE folders (PyCharm, VSCode, etc)
+.idea/
+.vscode/
+
+# YOLO & model weights
+*.pt
+
+# Videos / large media
+*.mp4
+*.avi
+*.mov
+
+# Data folders
+numberplate dataset/
+datasets/
+runs/
+
+# CSV & logs
+*.csv
+*.log
