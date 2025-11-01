@@ -52,7 +52,7 @@ while True:
                                 detected_plates[plate] = current
                                 timestamp = time.strftime('%Y-%m-%d %H:%M:%S')
 
-                                print(f"✅ Plate detected: {plate}")
+                                print(f" Plate detected: {plate}")
 
                                 save_plate_to_csv(plate, timestamp)
                                 save_plate_to_db(cursor, db, plate, timestamp)
