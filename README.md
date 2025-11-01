@@ -1,11 +1,11 @@
-# 🚗 Number Plate Recognition System
+#  Number Plate Recognition System
 
 A real-time **Number Plate Recognition (NPR) system** built with **YOLOv8/YOLOv10**, **OpenCV**, and **Python**.  
 This project detects vehicles' number plates from images or videos, extracts the license plate region, and recognizes the characters using OCR.
 
 ---
 
-## 🔎 Project Overview
+##  Project Overview
 
 This project automates vehicle number plate detection and recognition for traffic monitoring, parking management, and security applications.  
 It uses **computer vision and deep learning techniques** for accurate and fast detection.
@@ -20,7 +20,7 @@ It uses **computer vision and deep learning techniques** for accurate and fast d
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.11**
 - **YOLOv8 / YOLOv10** for object detection
